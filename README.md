@@ -12,4 +12,9 @@ Fonte: <a href='https://www.pucminas.br/unidade/barreiro/ensino/graduacao/Pagina
   - [ ] Abstração de Dados
   - [ ] Estruturas e Abstração de Controle
   - [ ] Modularização
-  - [ ] Implementação em Linguagem de Programação 
+  - [ ] Implementação em Linguagem de Programação
+     
+
+
+## Materiais
+- <a href='https://d1wqtxts1xzle7.cloudfront.net/64955925/ALGORITMOS_E_ESTRUTURAS_DE_DADOS_I-libre.pdf?1605585520=&response-content-disposition=inline%3B+filename%3DAlgoritmos_e_Estruturas_de_Dados_I.pdf&Expires=1706013918&Signature=RYtxPgh~49IgibYG4ChDF9x4F7fNAjA0dILm8PWGaimWrB9SJuN2CklGzOTurR3sgWQThvnTnhDPCNxMsvY3OZiLfVzS11x58eJzPKMBS0LBQLTs6qyyMmbX~4ZMiEpRBXhKGQsphgKAELzbTdSEgajIDxKouCEpfxLZtY3gsmfVsHQawVL8aooB9p6CDAyjDcPJ7sIZjbo~6YxC1YQkwlU3CKUxkW878~R3owTNQzr7ZNCnOCafTpZhIbLX7qEDc0yNjKYEaRq1~wjuTyWEZw9JJBYO0oBBgzV0kfD6rGr9SJgfcpIatFHDItFAPF6d64tiaqUYxanYZdyFBTclgQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA'>Algoritmos e Estruturas de Dados I (Marcos Castilho, Fabiano Silva,  Daniel Weingaertner</a>
