@@ -1,4 +1,4 @@
-# Análise e Desenvolvimento de Sietemas
+# Análise e Desenvolvimento de Sistemas
 
 Contéúdos relacionados ao curso de Tecnologia em Análise e Desenvolvimento de Sistemas
 
