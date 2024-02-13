@@ -5,8 +5,8 @@ Contéúdos relacionados ao curso de Tecnologia em Análise e Desenvolvimento de
 Fonte: <a href='https://www.pucminas.br/unidade/barreiro/ensino/graduacao/Paginas/Analise-e-Desenvolvimento-de-Sistemas-Tecnologo.aspx'>Tecnologia em Análise e Desenvolv. de Sistemas (PUC Minas)</a>
 
 
-## Grade Curricular
-- Algoritmos e Técnicas de Programação
+# Grade Curricular
+## Algoritmos e Técnicas de Programação
 - Representação e Armazenamento de Dados
 - Manipulação e Movimentação de Dados em Memória Principal e Secundária
 - Abstração de Dados
